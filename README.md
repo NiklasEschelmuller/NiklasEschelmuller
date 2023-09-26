@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NiklasEschelmuller
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C#
-- I’m looking to collaborate on ...
+- I’m looking to collaborate on something
 - 📫 How to reach me (I don't know)
 
 <!---
